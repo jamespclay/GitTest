@@ -9,7 +9,7 @@ public class Oddities{
 		
 		for(int i = 0;i<test;i++){
 			int checkNumber = input.nextInt();
-			if(checkNumber
+			if(checkNumber*test
 		}//for
 	}//main
 
